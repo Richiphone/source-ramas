@@ -13,7 +13,15 @@ code {
 </head>
 <body>
 
+<p><strong>Note:</strong> The big element is not supported in HTML5.</p>
 <p>A code element is displayed like this:</p>
+
+
+<p>This text is normal.</p>
+<p><big>This text is bigger.</big></p>
+
+<code>A piece of computer code</code>
+
 
 <code>A piece of computer code</code>
 
