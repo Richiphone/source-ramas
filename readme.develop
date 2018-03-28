@@ -2,15 +2,16 @@ readme develop
 
 estoy en funcionalidad 1 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sed libero at lorem gravida euismod non ut metus. Sed nec nibh non lectus accumsan pharetra. Proin aliquet ante eu augue hendrerit, lacinia pulvinar magna volutpat. Vestibulum tempus augue ut magna mattis, eget malesuada neque auctor. Maecenas purus diam, rhoncus ut tellus ut, maximus euismod quam. Quisque malesuada lobortis lacus et lobortis. Praesent sed efficitur nunc. Ut in enim sed lectus ornare commodo non vestibulum erat. Suspendisse in ullamcorper sem. Donec tempus lobortis pellentesque. Maecenas vulputate interdum sodales. Nunc tincidunt, nibh et vestibulum imperdiet, leo lacus ornare augue, eu semper dui nunc ac diam. Ut viverra risus ut egestas eleifend. Donec felis est, gravida sit amet efficitur nec, consequat sit amet neque.
+<!DOCTYPE html>
+<html>
+<body>
 
-estoy en funcionalidad 1 y he añadido otra línea
+<em>Emphasized text</em><br>
+<strong>Strong text</strong><br>
+<code>A piece of computer code</code><br>
+<samp>Sample output from a computer program</samp><br>
+<kbd>Keyboard input</kbd><br>
+<var>Variable</var>
 
-Lorem ipsum dolor sit amet
-
-estoy en funcionalidad 1 
-estoy en funcionalidad 1 
-
-
-
-estoy en funcionalidad 1 
+</body>
+</html>
