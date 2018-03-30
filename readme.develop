@@ -19,10 +19,7 @@ code {
 <p>This text is normal.</p>
 <p><big>This text is bigger.</big></p>
 
-<code>A piece of computer code</code>
-
-
-<code>A piece of computer code</code>
+<code>A piece of computer code</code><code>A piece of computer code</code><code>A piece of computer code</code>
 
 <p>Change the default CSS settings to see the effect.</p>
 
